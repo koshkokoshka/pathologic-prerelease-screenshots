@@ -1,4 +1,4 @@
-<img src="alpha-screenshots/collage.jpg">
+<img src="collage.jpg">
 
 Press release media from the archives of various Russian game magazines
 
