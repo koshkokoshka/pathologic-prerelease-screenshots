@@ -1,8 +1,10 @@
 # Pathologic Game Research Project
 
+Here I'm trying to reverse-engineer Pathologic game resource files and share my results with public
+
 <img src="banner.jpg" alt="Pathologic">
 
-Here I'm trying to reverse-engineer Pathologic game resource files and share my results with public
+> Pathologic is a property of [Ice-Pick Lodge](http://ice-pick.com/). All right belong to their respective owners.
 
 ## Goals
 - [x] Extract .VFS files
