@@ -1,6 +1,6 @@
 # Pathologic Game Research Project
 
-Here I'm trying to reverse-engineer Pathologic game resource files and share my results with public
+Reverse-engineering Pathologic game resources and share my results in the public domain
 
 <img src="banner.jpg" alt="Pathologic">
 
