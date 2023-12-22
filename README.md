@@ -34,14 +34,14 @@ struct {
 
     char unknown_chunk[89] // for inv_lemon.mesh
 //    char unknown_chunk[89] // for inv_samopal.mesh
-//    char unknown_chunk[805] // for trash01.mesh
 //    char unknown_chunk[89] // for grenade.mesh
 //    char unknown_chunk[93] // for victoria.mesh
-//    char unknown_chunk[3842] // for Bench41.mesh
 //    char unknown_chunk[93] // for avrox_grave01.mesh
-//    char unknown_chunk[159604] // for b6q01_bull.mesh
-//    char unknown_chunk[4719] // for ithouse_podushka06.mesh
 //    char unknown_chunk[161] // for pond.mesh
+//    char unknown_chunk[805] // for trash01.mesh
+//    char unknown_chunk[4719] // for ithouse_podushka06.mesh
+//    char unknown_chunk[3842] // for Bench41.mesh
+//    char unknown_chunk[159604] // for b6q01_bull.mesh
 
     struct {
         short x;
