@@ -32,13 +32,16 @@ struct {
     unsigned int vertices_count;
     unsigned int indices_count;
 
-    char unknown_chunk[88]; // for inv_lemon.mesh
-//       char unknown_chunk[93]; // for avrox_grave01.mesh
-//       char unknown_chunk[93]; // for victoria.mesh
-//       char unknown_chunk[804]; // for trash01.mesh
-//       char unknown_chunk[3846]; // for Bench41.mesh
-//       char unknown_chunk[93]; // for b6q01_bull.mesh
-//       char unknown_chunk[161]; // for pond.mesh
+    char unknown_chunk[89] // for inv_lemon.mesh
+//    char unknown_chunk[89] // for inv_samopal.mesh
+//    char unknown_chunk[805] // for trash01.mesh
+//    char unknown_chunk[89] // for grenade.mesh
+//    char unknown_chunk[93] // for victoria.mesh
+//    char unknown_chunk[3842] // for Bench41.mesh
+//    char unknown_chunk[93] // for avrox_grave01.mesh
+//    char unknown_chunk[159604] // for b6q01_bull.mesh
+//    char unknown_chunk[4719] // for ithouse_podushka06.mesh
+//    char unknown_chunk[161] // for pond.mesh
 
     struct {
         short x;
