@@ -47,7 +47,7 @@ struct {
         short x;
         short y;
         short z;
-        char padding[12];
+        char unknown[12];
     } vertices[vertices_count];
     struct {
         short v1;
