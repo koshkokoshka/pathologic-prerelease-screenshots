@@ -53,3 +53,5 @@ struct {
     } indices[indices_count];
 } mesh;
 ```
+
+<img src="mesh-viewer.png" alt="Pathologic">
