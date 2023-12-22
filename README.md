@@ -53,5 +53,8 @@ struct {
     } indices[indices_count];
 } mesh;
 ```
+### Pathologic Mesh Viewer
+
+Proof of work. Not ready to publish this tool yet.
 
 <img src="mesh-viewer.png" alt="Pathologic">
