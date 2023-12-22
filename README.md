@@ -58,6 +58,6 @@ struct {
 ```
 ### Pathologic Mesh Viewer
 
-Proof of work. Not ready to publish this tool yet.
+Proof of work. Not ready to publish this tool yet, because I still need to figure out on how to process the `unknown_chunk` section in .mesh files.
 
 <img src="mesh-viewer.png" alt="Pathologic">
