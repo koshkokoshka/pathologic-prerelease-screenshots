@@ -26,8 +26,8 @@ struct {
     unsigned int unknown3;
     unsigned int unknown4;
     unsigned char unknown5;
-    unsigned char string_length;
-    char texture_name[string_length];
+    unsigned char texture_name_length;
+    char texture_name[texture_name_length];
     char probably_null_terminator_but_maybe_alpha_flag;
     unsigned int vertices_count;
     unsigned int indices_count;
