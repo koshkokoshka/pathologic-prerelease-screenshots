@@ -10,7 +10,7 @@ Reverse-engineering Pathologic game resources and share my results in the public
 - [x] Extract .VFS files
 - [ ] Create GUI utility to extract and pack .VFS files
 - [ ] Reverse-enginere `.mesh` files structure
-- [ ] Create a model viewer
+- [x] Create a [model viewer](https://github.com/koshkokoshka/pathologic-mesh-viewer)
 
 ## Geometry.vfs
 
@@ -60,6 +60,6 @@ struct {
 ```
 ### Pathologic Mesh Viewer
 
-Proof of work. Not ready to publish this tool yet, because I still need to figure out on how to process the `unknown_chunk` section in .mesh files.
+[GitHub Page](https://github.com/koshkokoshka/pathologic-mesh-viewer)
 
 <img src="mesh-viewer.png" alt="Pathologic">
