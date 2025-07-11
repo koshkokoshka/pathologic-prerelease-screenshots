@@ -1,0 +1,72 @@
+.pbb1 {
+	background-image: url(images/bb_02.jpg);
+}
+.pbb1g {
+	background-image: url(images/bb_01_g.gif);
+}
+.tlnk {
+	font-family: Georgia;
+	font-size: 14px;
+	font-weight: normal;
+	color: #CCCCCC;
+}
+.bglinks {
+	background-image: url(images/bg_links.gif);
+}
+.pblogo {
+	border: 1px solid #333333;
+	background-image: url(images/bg_logo.jpg);
+}
+.hdr {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.smtx {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #999999;
+	list-style-image: url(images/transparent.gif);
+
+}
+.numbers {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #999999;
+}
+.mtx {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #CCCCCC;
+}
+.hdr2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #999999;
+	font-weight: bold;
+
+}
+.bgdots {
+	background-image: url(images/bg_dots.gif);
+}
+.pbb2g {
+	background-image: url(images/bb_02_g.gif);
+}
+.pbb3g {
+	background-image: url(images/bb_03_g.gif);
+}
+.pbb2 {
+	background-image: url(images/bb_04.jpg);
+}
+.pbb3 {
+	background-image: url(images/bb_03.jpg);
+}
+.pbb4 {
+	background-image: url(images/bb_05.jpg);
+}
+.pbb5 {
+	background-image: url(images/bb_06.jpg);
+}
+.mtxBold { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF; ; font-weight: bold}
